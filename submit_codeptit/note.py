@@ -5,4 +5,4 @@ print(10**5-1)
 
 s = "freeCodeCamp"
 print(s[-3:])
-print(s[2+ 2:])
+print(s[2 + 2:])
